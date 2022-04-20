@@ -71,7 +71,7 @@ main img{
 /*--------------------Especificaciones de tipografía-----------------------------*/
 
 p{
-    font-size: 12px;
+    font-size: 16px;
 }
 .main h2{
     font-size: 24px;
@@ -111,6 +111,7 @@ article div{
 .titular{
     margin: 20px;
     text-align: left;
+    font-size: 24px;
 }
 main section article i{
     display: block;
@@ -143,9 +144,8 @@ footer{
     margin:auto;
 
 }
-footer div{
+footer i{
     color: #1259c3;
-    font-size: 32px;
 }
 
 /*--------------------MEDIAS-------------------------*/
@@ -178,7 +178,7 @@ footer div{
 
     .descripciones{
         display: flex;
-        justify-content: center;
+        justify-content: space-around;
         text-align: center;
     }
 
